@@ -22,7 +22,7 @@ jQuery(document).ready(function(){
 
     // If is Exception
     if (isException) {
-        console.log('Exception case');
+        // console.log('Exception case');
         addStringToWebsite();
     }
 
