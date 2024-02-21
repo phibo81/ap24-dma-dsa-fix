@@ -16,7 +16,7 @@ jQuery(document).ready(function(){
 
     // Check for the exception == 'fahrzeuge.motormobil.at'
     if (hostname.includes('fahrzeuge.motormobil.at')) {
-        console.log('DMA / DSA Fix returned due to exception.');
+        // console.log('Motormobil.at exception');
         return;
     }
 
